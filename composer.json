@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Ajax_Editable_Category_Product",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Ajax Editable Category Product allows you to quick update products from category section.",
+    "authors": [
+    {
+        "name": "Anupam Tiwari",
+        "email": "vishwasnature30@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
