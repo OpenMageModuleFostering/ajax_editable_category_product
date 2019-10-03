@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Ajax_Editable_Category_Product",
+    "name": "openmage-module-fostering\/ajax_editable_category_product",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Ajax Editable Category Product allows you to quick update products from category section.",
     "authors": [
